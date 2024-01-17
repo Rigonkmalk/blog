@@ -9,26 +9,25 @@ Petit article lié à mes activités au sein de l'équipe de SOZ.
 
 # Voiture en paint4 pour le LSPD
 
-![img.png](images/img.png)
-
 La voiture doit passer en paint1 pour avoir la même configuration que les autres voitures du LSPD ( vehicle_paint1)
-
-![img_1.png](images/img_1.png)
-
 
 ## How-To
 
 Sur Blender, avec ZenUV, ce mettre en edit mode :
 
+![img.png](/gta5/images/img.png)
+
 * sélectionner le vehicle_generic_smallspecmap [PRIMARY] en paint4 en UVMap 0
 * Copier le UVMap 0
 * Coller celui-ci dans UVMap 1
 
+![img_1.png](/gta5/images/img_1.png)
+
 Pour ensuite convertir le materials en vehicle_paint1
 
-![img_3.png](images/img_3.png)
+![img_3.png](/gta5/images/img_3.png)
 
-![img_2.png](images/img_2.png)
+![img_2.png](/gta5/images/img_2.png)
 
 ### Pourquoi :
 

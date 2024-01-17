@@ -1,10 +1,14 @@
 baseURL = 'http://example.org/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Rigonkmalk attic'
 theme = 'hugo-blog-awesome'
 
 [params.author]
 avatar = "avatar.png"
 intro = "Bienvenue sur mon blog"
 name = "Paul ( Rigonkmalk ) Azema"
-description = "C'est un blog un peu brouillon qui aura pour objectif de comprendre Github Actions et le déploiment avec Hugo"
+description = "C'est un blog un peu brouillon qui aura pour objectif de comprendre Github Actions et le déploiement avec Hugo"
+
+[module]
+[[module.imports]]
+    path = 'github.com/hugomods/images'

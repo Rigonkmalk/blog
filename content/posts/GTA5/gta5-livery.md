@@ -15,20 +15,19 @@ La voiture doit passer en paint1 pour avoir la même configuration que les autre
 
 Sur Blender, avec ZenUV, ce mettre en edit mode :
 
-![img.png](/livery/viewport_uv.png)
-<img src="/livery/viewport_uv.png"/>
+![viewport](/static/img/livery/viewport_uv.png)
 
 * sélectionner le vehicle_generic_smallspecmap [PRIMARY] en paint4 en UVMap 0
 * Copier le UVMap 0
 * Coller celui-ci dans UVMap 1
 
-![img_1.png](../images/gta5/livery/img_1.png)
+![viewport](/static/img/livery/img_1.png)
 
 Pour ensuite convertir le materials en vehicle_paint1
 
-![img_3.png](../images/gta5/livery/img_3.png)
+![viewport](/static/img/livery/img_2.png)
 
-![img_2.png](../images/gta5/livery/img_2.png)
+![viewport](/static/img/livery/img_3.png)
 
 ### Pourquoi :
 

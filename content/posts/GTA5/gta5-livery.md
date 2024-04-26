@@ -15,8 +15,8 @@ La voiture doit passer en paint1 pour avoir la même configuration que les autre
 
 Sur Blender, avec ZenUV, ce mettre en edit mode :
 
-![img.png](livery/viewport_uv.png)
-<img src="livery/viewport_uv.png"/>
+![img.png](/livery/viewport_uv.png)
+<img src="/livery/viewport_uv.png"/>
 
 * sélectionner le vehicle_generic_smallspecmap [PRIMARY] en paint4 en UVMap 0
 * Copier le UVMap 0

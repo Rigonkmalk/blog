@@ -30,3 +30,8 @@ git rebase refs/heads/main
 ```
 
 Permet de récupérer les derniers commit de la branch `main` dans la branche active.
+
+```shell
+git push --set-upstream origin feat/git
+```
+Permet d'envoyer sa branch locale vers le repo git.

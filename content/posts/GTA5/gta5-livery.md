@@ -1,5 +1,5 @@
 ---
-title: "Painting Livery"
+title: "GTA5 / Blender - Painting Livery"
 date: 2024-01-17T11:50:00+02:00
 draft: false
 author: "Paul ( Rigonkmalk ) Azema"

@@ -1,5 +1,5 @@
 ---
-title: "Pense-Bête Git"
+title: "GIT - Clipboard Git"
 date: 2024-08-01T18:35:27+01:00
 draft: false
 author: "Paul ( Rigonkmalk ) Azema"
